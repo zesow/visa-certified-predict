@@ -1,1 +1,1 @@
-boaz E조 미니프로젝트1 입니다.
+boaz E first mini project.
